@@ -60,12 +60,12 @@ section#presentation {
 }
 
 section#presentation article {
-    width: 660px;
+    width: 200px;
     margin: 0 auto;
 }
 
 section#presentation article.title {
-    font-size: 3em;
+    font-size: 1.5em;
 }
 
 section#presentation article.contact {
@@ -73,7 +73,7 @@ section#presentation article.contact {
 }
 
 section#ellas {
-    width: 660px;
+    width: 200px;
     margin: 0 auto;
     padding-top: 80px;
 }
@@ -81,14 +81,10 @@ section#ellas {
 section#ellas > article {
     width: 200px;
     height: 200px;
-    margin-right: 30px;
+    margin-right: 0;
     display: block;
     float: left;
     margin-bottom: 50px;
-}
-
-section#ellas > article:nth-child(3n) {
-    margin-right: 0;
 }
 
 section#ellas > article > a {
@@ -118,4 +114,56 @@ section#ellas > article > a > span {
 
 section#ellas > article > a:hover > span {
     color: #aaa;
+}
+
+@media screen and (min-width: 450px) {
+
+    section#presentation article.title {
+        font-size: 2.3em;
+    }
+
+    section#presentation article {
+        width: 450px;
+    }
+
+    section#ellas {
+        width: 450px;
+    }
+
+    section#ellas > article {
+        margin-right: 30px;
+    }
+
+    section#ellas > article:nth-child(2n) {
+        margin-right: 0;
+    }
+
+}
+
+@media screen and (min-width: 700px) {
+
+    section#presentation article.title {
+        font-size: 3em;
+    }
+
+    section#presentation article {
+        width: 660px;
+    }
+
+    section#ellas {
+        width: 660px;
+    }
+
+    section#ellas > article {
+        margin-right: 30px;
+    }
+
+    section#ellas > article:nth-child(2n) {
+        margin-right: 30px;
+    }
+
+    section#ellas > article:nth-child(3n) {
+        margin-right: 0;
+    }
+
 }
