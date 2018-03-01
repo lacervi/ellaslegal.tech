@@ -5,17 +5,22 @@ body {
     font-family: "Source Sans Pro", sans-serif;
     color: #555;
     font-size: 20px;
+    margin: 0;
+    padding: 0;
 }
 body > header {
-    width: 100%;
+    width: 80%;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 80px;
     border-bottom: 2px solid #e5e5e5;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 body > header > img.photo {
     width: 140px;
     height: 140px;
     border-radius: 50%;
+    margin-bottom: 20px;
 }
 body > header h1,
 body > header .bio,
@@ -23,13 +28,18 @@ body > header p {
     padding-bottom: 20px;
 }
 h1 {
-    font-size: 2em;
+    font-size: 1.2em;
     line-height: 2em;
     text-transform: uppercase;
     font-weight: 900;
     font-stretch: 100%;
     letter-spacing: 0.15em;
     margin: 0;
+}
+@media screen and (min-width: 500px) {
+    h1 {
+        font-size: 2em;
+    }
 }
 body > header > .bio {
     margin: 0;
