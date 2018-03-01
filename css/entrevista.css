@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,600,900");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css");
+body {
+    width: 100%;
+    font-family: "Source Sans Pro", sans-serif;
+    color: #555;
+    font-size: 20px;
+}
+body > header {
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+    border-bottom: 2px solid #e5e5e5;
+}
+body > header > img.photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+body > header h1,
+body > header .bio,
+body > header p {
+    padding-bottom: 20px;
+}
+h1 {
+    font-size: 2em;
+    line-height: 2em;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-stretch: 100%;
+    letter-spacing: 0.15em;
+    margin: 0;
+}
+body > header > .bio {
+    margin: 0;
+}
+q {
+    quotes: "\201C" "\201D";
+    font-weight: 600;
+}
+
+#entrevista {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+#entrevista > article > question {
+    margin: 3em 0em 1.5em 0em;
+    font-size: 1.2em;
+    font-weight: 900;
+    color: #555;
+    text-transform: uppercase;
+    display: block;
+}
+
+#entrevista > article > answer {
+    text-align: justify;
+    display: block;
+}
+
+article.contact a span {
+    display: none;
+}
+
+.icon {
+    text-decoration: none;
+}
+
+.icon:hover {
+    cursor: pointer;
+}
+
+.icon:before {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-size: 1.25em;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+article.contact a:before {
+    -moz-transition: background-color 0.25s ease-in-out;
+    -webkit-transition: background-color 0.25s ease-in-out;
+    -ms-transition: background-color 0.25s ease-in-out;
+    transition: background-color 0.25s ease-in-out;
+    display: inline-block;
+    background: #555;
+    border-radius: 100%;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#comparte {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+#comparte {
+    text-align: center;
+}
+
+#comparte h2 {
+    text-transform: uppercase;
+}
+.btn {
+    background: #aaaaaa;
+    background-image: -webkit-linear-gradient(top, #aaaaaa, #555555);
+    background-image: -moz-linear-gradient(top, #aaaaaa, #555555);
+    background-image: -ms-linear-gradient(top, #aaaaaa, #555555);
+    background-image: -o-linear-gradient(top, #aaaaaa, #555555);
+    background-image: linear-gradient(to bottom, #aaaaaa, #555555);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    box-shadow: -10px 10px 30px;
+}
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #cccccc, #aaaaaa);
+    background-image: -moz-linear-gradient(top, #cccccc, #aaaaaa);
+    background-image: -ms-linear-gradient(top, #cccccc, #aaaaaa);
+    background-image: -o-linear-gradient(top, #cccccc, #aaaaaa);
+    background-image: linear-gradient(to bottom, #cccccc, #aaaaaa);
+    text-decoration: none;
+    cursor: pointer;
+}
+header > nav > a.btn {
+    position: fixed;
+    top: 3%;
+    right: 3%;
+}
+a:focus {
+    outline: none;
+}
+
+#templates {
+    display: none;
+}

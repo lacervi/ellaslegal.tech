@@ -1,0 +1,52 @@
+{
+    "name": "Cristina Carrascosa",
+    "photo": "cris-carrascosa.jpg",
+    "bio": "Digital Freak / Blockchain",
+    "social": {
+        "twitter": "CarrascosaCris_",
+        "linkedin": "https://www.linkedin.com/in/cristina-carrascosa-cobos-llm-a3632863/"
+    },
+    "quote": "Tu reputación es más importante que tu salario, tu integridad vale más que tu carrera",
+    "questions": [
+        {
+            "question": "",
+            "answer": ""
+        },
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "El legaltech es unA disciplina inventada, unA forma de entender unA nuevA profesión.  Además, es unA pasión.  El legaltech se vive, o no se vive.  Y si no se vive, unA no puede dedicarse a ello.  Es lA mezcla entre lA tradición jurídica y lA innovación.  Ea, bien en femenino."
+        },
+        {
+            "question": "Formación legal pero trabajo en tecnologico, ¿cuál fue el camino que decidiste seguir para llegar a donde estas ahora?",
+            "answer": "Un día, mientras trabajaba dirigiendo el departamento de nuevas tecnologías en una firma legal hace ya 6 años descubri el bitcoin, y la tecnología que tenia por debajo, la blockchain (en femenino tambien), y ese mismo día dejé mi trabajo y me mudé a Madrid para poder estar más cerca de la gente que conocía y que trabajaba ya este entorno.  En aquel momento no solo mi entorno pensó que había cometido una locura, si no que por el poco conocimiento que tenían de lo que hacía, muchos pensaban que era algún tipo de moda poco legal pero muy pasajera."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "La verdad es que cuando me pongo en modo de trabajo, ni siquiera recuerdo que soy mujer, o que puedo estar rodeada de hombres.  A decir verdad, y como en mi época en el colegio sufrí bastantes años de acoso por parte de las niñas, desde pequeña he hecho más amigos que amigas, así que he crecido dando mi opinión en entornos donde éramos minoría.  Lo cierto es que no recuerdo (si alguna vez me ha pasado) la ultima vez que una propuesta en el ámbito profesional fuese poco valorada por venir precisamente de una mujer."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "En relación con la pregunta anterior, el hecho de que a mi personalmente no me suceda, creo que si existe una evidente desigualdad de genero.  Quiero decir, ahi están los datos. En los puestos de mas responsabilidad las mujeres son absolutamente casualidades, y en los casos en los que ellas ocupan puestos altos, ni siquiera los salarios son iguales que los de los hombres. Y eso si me mosquea.  Para mi, el estado natural de las cosas debería ser uno en el que partiendo de mismas oportunidades y salarios, las desigualdades de produjesen en base al rendimiento (alto, o bajo), pero hacerlo por razones de genero no solo es absurdo sino que tremendamente ineficiente.  Por eso, romper el techo de cristal es necesario para que empecemos a avergonzarnos de la situación actual."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por donde empezarías?",
+            "answer": "Yo creo que debemos empezar por nosotras mismas. Por no ser cómplices de situaciones que favorecen la desigualdad, por liderar nuestros propios proyectos y ser ejemplo."
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "La constancia y la vocación. He pasado por grandes despachos donde los responsables directos no dejaban de decirme que blockchain era humo, y que nunca iba a ser capaz de bajarlo a tierra y sin embargo en la actualidad casi todo mi tiempo profesional (y personal, la verdad) está dedicado a modelos de negocio y proyectos sobre blockchain.  Si me hubiese dejado influir por aquellas personas, o por quienes me decían que dejar mi carrera como fiscalista para dedicarme a esto era una verdadera locura, pues muy seguramente no estaría donde estoy, ni tendría la suerte de dedicar mi vida a lo que verdaderamente disfruto."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Que nunca dejen de aprender, y que no pierdan la humildad.  Pensar que lo sabes todo, o que estás en lo más alto es siempre un error.  La carrera profesional es eso, una carrera que no se termina hasta que uno no decide retirarse.  Y por el camino, hay obstáculos. La mayoría se pueden salvar si somos humildes, y otros se pueden evitar si hemos aprendido de las caídas anteriores. Si algo me han enseñado los años que llevo trabajando es que de absolutamente todo, y todos, se aprende algo util."
+        },
+        {
+            "question": "Que coño es la blockchain?",
+            "answer": "Es una palabra magica que hará que tu empresa medio en declive suba como la espuma. Y muchas otras cosas :) Una referencia en tu vida: Malala Yousafzai - Es común tener como referencias a personas a quienes ni conocimos, ni tan siquiera vimos vivir.  Gente de la que sabemos por lo que nos cuentan los libros, u otras personas. Yo admiro a quien he visto sufrir.  A mi me produce respeto y me supone un ejemplo a seguir la niña que se levanta y se manifiesta en pro de la educación a las mujeres en un país en el que tu vida no vale nada.  Creo que todos vimos a Malala el día que le dispararon y creo que todos sabemos que desde entonces vive amenazada de muerte, pero eso no le impide seguir defendiendo una causa tan universalmente justa como el derecho a la educación."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "Tu reputación es más importante que tu salario, tu integridad vale más que tu carrera."
+        }
+    ]
+}

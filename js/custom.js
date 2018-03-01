@@ -90,7 +90,7 @@ jQuery(document).ready(function($) {
 	function centerScroll(){
 		var h = $(window).height()/2 - $('#scroll-holder').height()/2;
 		$('#scroll-holder').css({
-			top: function(index, value){ return h }
+			top: function(index, value){ return 'auto' }
 		});
 	}
 	
@@ -137,11 +137,13 @@ jQuery(document).ready(function($) {
 	
 	
 	// Click image, Open image on background
+    /*
 	$("div#makeMeScrollable a").click(function(){
 		hideScroller($(this));
 		changeBg($(this));
 		return false;
 	});
+    */
 	
 	
 	// Close button
