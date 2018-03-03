@@ -32,7 +32,11 @@ $(function() {
             $('header > h1.name').text(data.name);
             $('header > article.bio').text(data.bio);
             $('header > article.contact a.fa-twitter').attr('href', 'https://twitter.com/' + data.social.twitter);
-            $('header > article.contact a.fa-linkedin').attr('href', data.social.linkedin);
+            if (data.social.linkedin == null) {
+                $('header > article.contact a.fa-linkedin').css('display', 'none');
+            } else {
+                $('header > article.contact a.fa-linkedin').attr('href', data.social.linkedin);
+            }
             $('header > p.quote > q').text(data.quote);
             for (var q in data.questions) {
                 $('section#entrevista').append(

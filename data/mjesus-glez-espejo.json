@@ -1,0 +1,48 @@
+{
+    "name": "María Jesús González Espejo",
+    "photo": "mjesus-glez-espejo.jpg",
+    "bio": "Innovación Legal",
+    "social": {
+        "twitter": "chusage",
+        "linkedin": null
+    },
+    "quote": "Creo firmemente que la tecnología puede ayudar a resolver muchos de los retos que todavía quedan por superar para lograr la igualdad de géneros",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "LegalTech no tiene sexo, no debería tenerlo."
+        },
+        {
+            "question": "Vienes del mundo jurídico, pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí?",
+            "answer": "Siempre me ha preocupado la eficiencia. Como abogada era adicta al Excel. Lo usaba para hacer registros y poder buscar mejor, para calcular cosas, para agrupar informaciones. Luego llegaron otras tecnologías, y yo, que soy extremadamente curiosa y que siempre he amado lo que me facilita el trabajo y me evita cometer errores, me lancé a estudiar, a analizar, a ordenar y crear.  Como consultora quería ayudar a los despachos de abogados en sus procesos de transformación digital. Además, soñaba con desarrollar tecnologías para ofrecer servicios jurídicos a través de internet. Así que primero monté un “hackathon” (encuentro de programadores); luego, junto a mi socia Laura Fauqueur, el Instituto de Innovación Legal, más tarde un curso “on line” para formar a los juristas en el manejo de las redes sociales y, además, Conflictmapp, la primera herramienta dirigida a ayudar a las personas a diagnosticar y solucionar sus conflictos con otras personas.  Y así un proyecto tras otro hasta llegar a ser a lo que hoy somos: unas pioneras en este precioso campo de la innovación y la LegalTech en España."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "No, afortunadamente,  no he tenido nunca esta sensación."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "El techo de cristal hay que romperlo, y hay que hacerlo en un triple sentido. Primero es necesario romper el techo que impide a muchos hombres asumir un rol en el hogar igual al de la mujer. En segundo lugar, hay que romper el que hace a la mujer tirar la toalla en su trayectoria profesional, por cansancio, por miedo, por creencias erróneas sobre su papel en la sociedad y en la familia.  Y finalmente, también debemos romper el techo del que más se habla, el que está impidiendo a muchas mujeres, preparadas y capaces, alcanzar sus metas, porque aún persisten los old boys' club y pesan aún muchas tradiciones que no nos favorecen ante determinadas situaciones.  Todos ellos son techos igual de duros, igual de injustos y que una sociedad como la nuestra no debería tener. Estoy segura de que nadie discutirá, hombre o mujer, que es siempre mejor tener el cielo como techo y no un cristal que, además, ahora está tan empañado que apenas deja pasar la luz."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por donde empezarías?",
+            "answer": "Mi respuesta es que queda mucho por hacer: lo veo y lo leo en muchos estudios académicos. Aún queda mucho camino por recorrer.  ¿Por dónde empezaría? Continuaría educando a hombres y mujeres en la igualdad; impulsaría medidas de discriminación positiva como las cuotas (al menos hasta que disminuya el desequilibrio).  Y promovería, cómo no, desarrollos tecnológicos. Creo firmemente que la tecnología puede ayudar a resolver muchos de los retos que todavía quedan por superar para lograr la igualdad de géneros. Por ejemplo, el big data y la inteligencia artificial pueden hacer fotos de la realidad que nadie podrá discutir; el reclutamiento de personal a través de plataformas puede aportar la anonimización que garantiza la igualdad, y la movilidad favorece el trabajo flexible, pilar fundamental de la conciliación. "
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "Una estrategia, el trabajo, la fuerza de voluntad, la constancia, ser consecuente con mis ideales y valores, mi familia y mis amigos y, por supuesto, haber hecho palanca con mi talento y haber aprendido a controlar mis defectillos, que no son pocos, porque son traviesos y cada poco me la juegan."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Que miren hacia dentro de ellas mismas, que busquen su verdadero yo, que identifiquen sus sueños, ambiciones, ideales y valores. Que entiendan sus puntos fuertes y débiles para construir un futuro sobre los primeros y controlar los segundos.  Que respeten y aprenden de los seniors, y al tiempo que les contagien su ilusión y alegría. Que trabajen siempre que puedan con profesionales de otros países y de otras disciplinas."
+        },
+        {
+            "question": "Una referencia en tu vida",
+            "answer": "Mi abuelo, un hombre nacido en un pequeño pueblo y que erigió un importante grupo empresarial con su esfuerzo y tenacidad, y así devolvió a la sociedad mucho de lo que recibió de ella."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "“La persona que no está en paz consigo misma será una persona en guerra con el mundo entero”.  (Mahatma Gandhi)"
+        }
+    ]
+}
