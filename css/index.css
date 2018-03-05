@@ -51,6 +51,12 @@ article.contact a:before {
     color: #FFFFFF;
 }
 
+nav#nav-bar {
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
 section#presentation {
     width: 100%;
     text-align: center;
@@ -116,7 +122,30 @@ section#ellas > article > a:hover > span {
     color: #aaa;
 }
 
+input[type=text].search-box {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('../img/searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text].search-box:focus {
+    width: 100%;
+}
+
 @media screen and (min-width: 450px) {
+
+    nav#nav-bar {
+        width: 450px;
+    }
 
     section#presentation article.title {
         font-size: 2.3em;
@@ -141,6 +170,10 @@ section#ellas > article > a:hover > span {
 }
 
 @media screen and (min-width: 700px) {
+
+    nav#nav-bar {
+        width: 660px;
+    }
 
     section#presentation article.title {
         font-size: 3em;
