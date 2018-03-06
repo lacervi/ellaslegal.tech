@@ -51,10 +51,53 @@ article.contact a:before {
     color: #FFFFFF;
 }
 
-nav#nav-bar {
+section.search-bar {
+    width: 100%;
+}
+
+section.search-bar > nav {
     width: 200px;
     margin: 0 auto;
     margin-top: 10px;
+}
+
+section.search-bar > nav > form {
+    width: 100%;
+}
+
+section.search-bar.headhesive {
+    display: none;
+}
+
+section.search-bar.headhesive--stick {
+    display: block;
+    position: fixed;
+    background: white;
+    top: 0;
+    padding-bottom: 15px;
+    z-index: 1;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+section.search-bar article.logo {
+    display: none;
+}
+
+section.search-bar.headhesive--stick article.logo {
+    display: block;
+    float: left;
+    width: 25%;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 45px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+section.search-bar.headhesive--stick form {
+    display: block;
+    width: 75%;
+    float: left;
 }
 
 section#presentation {
@@ -87,10 +130,19 @@ section#ellas {
 section#ellas > article {
     width: 200px;
     height: 200px;
-    margin-right: 0;
+    margin-left: 15px;
+    margin-right: 15px;
     display: block;
     float: left;
     margin-bottom: 50px;
+}
+
+section#ellas > article.searching {
+    display: none;
+}
+
+section#ellas > article.searching.match {
+    display: block;
 }
 
 section#ellas > article > a {
@@ -143,7 +195,7 @@ input[type=text].search-box:focus {
 
 @media screen and (min-width: 450px) {
 
-    nav#nav-bar {
+    section.search-bar > nav {
         width: 450px;
     }
 
@@ -159,20 +211,12 @@ input[type=text].search-box:focus {
         width: 450px;
     }
 
-    section#ellas > article {
-        margin-right: 30px;
-    }
-
-    section#ellas > article:nth-child(2n) {
-        margin-right: 0;
-    }
-
 }
 
 @media screen and (min-width: 700px) {
 
-    nav#nav-bar {
-        width: 660px;
+    section.search-bar > nav {
+        width: 690px;
     }
 
     section#presentation article.title {
@@ -180,23 +224,11 @@ input[type=text].search-box:focus {
     }
 
     section#presentation article {
-        width: 660px;
+        width: 690px;
     }
 
     section#ellas {
-        width: 660px;
-    }
-
-    section#ellas > article {
-        margin-right: 30px;
-    }
-
-    section#ellas > article:nth-child(2n) {
-        margin-right: 30px;
-    }
-
-    section#ellas > article:nth-child(3n) {
-        margin-right: 0;
+        width: 690px;
     }
 
 }
