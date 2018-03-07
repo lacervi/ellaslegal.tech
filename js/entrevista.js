@@ -50,7 +50,18 @@ $(function() {
             var urlShareTwitter = 'https://twitter.com/intent/tweet?text='
                 + urlize(data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech: "' + data.quote + '"')
                 + '&hashtags=feminismo,activismo,legaltech&via=ellaslegaltech';
+            var urlShareLinkedin = 'https://www.linkedin.com/shareArticle?mini=true&url='
+                + window.location.href + '&title='
+                + urlize(data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech')
+                + '&summary=' + urlize(data.quote)
+                + '&source=ellaslegal.tech';
+            var urlShareEmail = 'mailto:?to=&subject='
+                + urlize(data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech')
+                + '&body=' + urlize('Mira lo que dice ' + data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech: ' + window.location.href)
             $('#comparte > article.contact a.fa-twitter').attr('href', urlShareTwitter);
+            $('#comparte > article.contact a.fa-facebook').attr('href', 'https://www.facebook.com/sharer/sharer.php?u=' + window.location.href);
+            $('#comparte > article.contact a.fa-linkedin').attr('href', urlShareLinkedin);
+            $('#comparte > article.contact a.fa-envelope').attr('href', urlShareEmail);
         }
     });
 });
