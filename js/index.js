@@ -4,13 +4,19 @@ var them = [
         id: 'paloma-llaneza',
         name: 'Paloma Llaneza',
         category: 'ciberseguridad',
-        published: false
+        published: true
     },
     {
         id: 'andrea-ortega',
         name: 'Andrea Ortega',
         category: null,
-        published: false
+        published: true
+    },
+    {
+        id: 'laura-fauqueur',
+        name: 'Laura Fauqueur',
+        category: null,
+        published: true
     },
     {
         id: 'cris-carrascosa',
@@ -27,12 +33,6 @@ var them = [
     {
         id: 'alice-hidkova',
         name: 'Alice hidkova',
-        category: null,
-        published: false
-    },
-    {
-        id: 'laura-fauqueur',
-        name: 'Laura Fauqueur',
         category: null,
         published: false
     },
@@ -94,7 +94,7 @@ var them = [
         id: 'mjesus-glez-espejo',
         name: 'María Jesús González Espejo',
         category: 'innovación',
-        published: true
+        published: false
     },
     {
         id: 'catherine',
