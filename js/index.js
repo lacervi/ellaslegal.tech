@@ -9,13 +9,13 @@ var them = [
     {
         id: 'andrea-ortega',
         name: 'Andrea Ortega',
-        category: null,
+        category: 'startups',
         published: true
     },
     {
         id: 'laura-fauqueur',
         name: 'Laura Fauqueur',
-        category: null,
+        category: 'innovación',
         published: true
     },
     {
@@ -135,7 +135,7 @@ var them = [
 
 ];
 
-var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startup', 'blockchain' ];
+var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
 
 $(function() {
 
