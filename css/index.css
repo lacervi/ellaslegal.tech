@@ -53,7 +53,7 @@ article.contact a:before {
 
 section.search-bar {
     width: 100%;
-    height: 100px;
+    height: 190px;
     padding-top: 10px;
 }
 
@@ -64,21 +64,20 @@ section.search-bar > nav {
 }
 
 section.search-bar > nav > form {
-    width: 50%;
+    width: 100%;
     float: left;
 }
 
 section.search-bar > nav > article.categories {
-    width: 50%;
+    padding-left: 0;
+    width: 100%;
     float: left;
     box-sizing: border-box;
-    padding-left: 20px;
-    margin-top: 0;
+    margin-top: 15px;
 }
 
 section.search-bar.headhesive--stick > nav > article.categories {
     width: 100%;
-    margin-top: 20px;
 }
 
 section.search-bar > nav > article.categories > a {
@@ -87,7 +86,7 @@ section.search-bar > nav > article.categories > a {
     border: 1px solid #555;
     border-radius: 20px;
     line-height: 1.2em;
-    font-size: 1em;
+    font-size: 0.8em;
     padding: 3px 10px;
     margin: 3px 3px;
     background: white;
@@ -129,17 +128,17 @@ section.search-bar article.logo {
 section.search-bar.headhesive--stick article.logo {
     display: block;
     float: left;
-    width: 25%;
+    width: 100%;
     font-size: 20px;
     font-weight: 900;
     line-height: 40px;
-    padding-left: 15px;
+    padding-left: 0px;
     box-sizing: border-box;
 }
 
 section.search-bar.headhesive--stick form {
     display: block;
-    width: 75%;
+    width: 100%;
     float: left;
 }
 
@@ -268,6 +267,40 @@ section.search-bar.headhesive--stick > nav > form > input[type=text].search-box 
         width: 475px;
     }
 
+    section.search-bar.headhesive--stick {
+        height: 140px;
+    }
+
+    section.search-bar.headhesive--stick article.logo {
+        width: 40%;
+        padding-left: 15px;
+    }
+
+    section.search-bar.headhesive--stick form {
+        width: 60%;
+    }
+
+    section.search-bar > nav > article.categories {
+        padding-left: 20px;
+    }
+
+    section.search-bar.headhesive--stick > nav > article.categories {
+        margin-top: 20px;
+    }
+
+    section.search-bar > nav > article.categories > a {
+        font-size: 1em;
+    }
+
+    section.search-bar > nav > form {
+        width: 40%;
+    }
+
+    section.search-bar > nav > article.categories {
+        width: 60%;
+        margin-top: 0;
+    }
+
 }
 
 @media screen and (min-width: 700px) {
@@ -286,6 +319,27 @@ section.search-bar.headhesive--stick > nav > form > input[type=text].search-box 
 
     section#ellas {
         width: 690px;
+    }
+
+    section.search-bar.headhesive--stick {
+        height: 100px;
+    }
+
+    section.search-bar.headhesive--stick article.logo {
+        width: 40%;
+    }
+
+    section.search-bar.headhesive--stick form {
+        width: 60%;
+    }
+
+    section.search-bar > nav > form {
+        width: 40%;
+    }
+
+    section.search-bar > nav > article.categories {
+        width: 60%;
+        margin-top: 0;
     }
 
 }
