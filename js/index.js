@@ -3,115 +3,139 @@ var them = [
     {
         id: 'paloma-llaneza',
         name: 'Paloma Llaneza',
+        category: 'ciberseguridad',
         published: false
     },
     {
         id: 'andrea-ortega',
         name: 'Andrea Ortega',
+        category: null,
         published: false
     },
     {
         id: 'cris-carrascosa',
         name: 'Cris Carrascosa',
+        category: 'blockchain',
         published: true
     },
     {
         id: 'eva-bruch',
         name: 'Eva Bruch',
+        category: null,
         published: false
     },
     {
         id: 'alice-hidkova',
         name: 'Alice hidkova',
+        category: null,
         published: false
     },
     {
         id: 'laura-fauqueur',
         name: 'Laura Fauqueur',
+        category: null,
         published: false
     },
     {
         id: 'barbara-roman',
         name: 'Bárbara Román',
+        category: '',
         published: false
     },
     {
         id: 'estela-alberte',
         name: 'estela alberte',
+        category: null,
         published: false
     },
     {
         id: 'amy-chan',
         name: 'Amy Chan',
+        category: null,
         published: false
     },
     {
         id: 'sonsoles-valero',
         name: 'Sonsoles Valero',
+        category: null,
         published: false
     },
     {
         id: 'sara-molina',
         name: 'Sara Molina',
+        category: null,
         published: false
     },
     {
         id: 'amanda-guglieri',
         name: 'amanda guglieri',
+        category: null,
         published: false
     },
     {
         id: 'astrid-baldisera',
         name: 'Astrid Baldisera',
+        category: null,
         published: false
     },
     {
         id: 'ruth-sala',
         name: 'Ruth sala',
+        category: null,
         published: false
     },
     {
         id: 'ruth-benito',
         name: 'Ruth Benito',
+        category: null,
         published: false
     },
     {
         id: 'mjesus-glez-espejo',
         name: 'María Jesús González Espejo',
+        category: 'innovación',
         published: true
     },
     {
         id: 'catherine',
         name: 'Catherine',
+        category: null,
         published: false
     },
     {
         id: 'molly',
         name: 'Molly',
+        category: null,
         published: false
     },
     {
         id: 'gizem',
         name: 'Gizem',
+        category: null,
         published: false
     },
     {
         id: 'yesica-sampayo',
         name: 'Yesica Sampayo',
+        category: null,
         published: false
     },
     {
         id: 'dori-fuentes',
         name: 'Dori fuenres',
+        category: null,
         published: false
     },
     {
         id: 'margaret-hagan',
         name: 'Margaret Hagan',
+        category: null,
         published: false
     },
 
 ];
+
+var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startup', 'blockchain' ];
 
 $(function() {
 
@@ -137,10 +161,18 @@ $(function() {
         }
     });
 
+    for (var i in filters) {
+        var filter = filters[i];
+        $('article.categories').append(
+            '<a href="" class="off" data-category="' + filter + '">' + filter + '</a>'
+        );
+    }
+
     for (var i in them) {
         var she = them[i];
         var img_src = './img/unknown.png';
         var link = '';
+        var category = she.category != null ? she.category : '';
         if (she.published) {
             img_src = './img/' + she.id + '.jpg';
             link = './entrevista.html?she=' + she.id;
@@ -149,7 +181,8 @@ $(function() {
             '<article id="' + she.id + '">'
                 + '<a href="' + link + '" title="' + she.name + '">'
                 + '<img src="' + img_src + '" alt="">'
-                + '<span>' + she.name + '</span>'
+                + '<span class="name">' + she.name + '</span>'
+                + '<span class="category">' + category + '</span>'
                 + '</a>'
                 + '</article>'
         );
@@ -173,4 +206,27 @@ $(function() {
         }
     });
 
+    $('article.categories a').click(function(e) {
+        e.preventDefault();
+        var category = $(this).data('category');
+        if ($(this).hasClass('on')) {
+            $('article.categories a[data-category=' + category + ']').removeClass('on');
+            $('article.categories a[data-category=' + category + ']').addClass('off');
+            $('section#ellas > article').removeClass('filtering');
+        } else {
+            $('article.categories a').removeClass('on');
+            $('article.categories a').addClass('off');
+            $('article.categories a[data-category=' + category + ']').removeClass('off');
+            $('article.categories a[data-category=' + category + ']').addClass('on');
+            for (var i in them) {
+                var she = them[i];
+                $('article#' + she.id).addClass('filtering');
+                if (she.category == category) {
+                    $('article#' + she.id).removeClass('filtered');
+                } else {
+                    $('article#' + she.id).addClass('filtered');
+                }
+            }
+        }
+    });
 });

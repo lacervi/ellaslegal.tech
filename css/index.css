@@ -53,6 +53,8 @@ article.contact a:before {
 
 section.search-bar {
     width: 100%;
+    height: 100px;
+    padding-top: 10px;
 }
 
 section.search-bar > nav {
@@ -62,7 +64,48 @@ section.search-bar > nav {
 }
 
 section.search-bar > nav > form {
+    width: 50%;
+    float: left;
+}
+
+section.search-bar > nav > article.categories {
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+section.search-bar.headhesive--stick > nav > article.categories {
     width: 100%;
+    margin-top: 20px;
+}
+
+section.search-bar > nav > article.categories > a {
+    display: block;
+    float: left;
+    border: 1px solid #555;
+    border-radius: 20px;
+    line-height: 1.2em;
+    font-size: 1em;
+    padding: 3px 10px;
+    margin: 3px 3px;
+    background: white;
+    color: #555;
+    text-decoration: none;
+}
+
+section.search-bar > nav > article.categories > a:hover {
+    background: #ccc;
+    color: #555;
+}
+
+section.search-bar > nav > article.categories > a:active,
+section.search-bar > nav > article.categories > a.on,
+section.search-bar > nav > article.categories > a.on:hover {
+    background: #aaa;
+    color: white;
+    border-color: #000;
 }
 
 section.search-bar.headhesive {
@@ -89,7 +132,7 @@ section.search-bar.headhesive--stick article.logo {
     width: 25%;
     font-size: 20px;
     font-weight: 900;
-    line-height: 45px;
+    line-height: 40px;
     padding-left: 15px;
     box-sizing: border-box;
 }
@@ -145,6 +188,10 @@ section#ellas > article.searching.match {
     display: block;
 }
 
+section#ellas > article.filtering.filtered {
+    display: none;
+}
+
 section#ellas > article > a {
     text-decoration: none;
 }
@@ -170,6 +217,10 @@ section#ellas > article > a > span {
     font-size: 0.8em;
 }
 
+section#ellas > article > a > span.category {
+    font-weight: 100;
+}
+
 section#ellas > article > a:hover > span {
     color: #aaa;
 }
@@ -182,15 +233,21 @@ input[type=text].search-box {
     font-size: 16px;
     background-color: white;
     background-image: url('../img/searchicon.png');
-    background-position: 10px 10px;
+    background-position: 10px 16px;
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
     -webkit-transition: width 0.4s ease-in-out;
     transition: width 0.4s ease-in-out;
+    height: 60px;
 }
 
 input[type=text].search-box:focus {
     width: 100%;
+}
+
+section.search-bar.headhesive--stick > nav > form > input[type=text].search-box {
+    background-position: 10px 8px;
+    height: 40px;
 }
 
 @media screen and (min-width: 475px) {
