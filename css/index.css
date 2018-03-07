@@ -7,6 +7,17 @@ body {
     padding: 0;
 }
 
+a {
+    color: #555;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+a:hover {
+    color: #888;
+    text-decoration: underline;
+}
+
 q {
     quotes: "\201C" "\201D";
     font-size: 1.5em;
@@ -249,6 +260,48 @@ section.search-bar.headhesive--stick > nav > form > input[type=text].search-box 
     height: 40px;
 }
 
+footer {
+    width: 100%;
+    display: block;
+    background-color: white;
+    float: left;
+    margin-top: 50px;
+    border-top: 1px solid #ccc;
+    padding-top: 30px;
+}
+
+footer > section {
+    width: 200px;
+    margin: 0 auto;
+}
+
+footer > section > article {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    box-sizing: border-box;
+}
+
+footer > section > article.full-width {
+    width: 100%;
+}
+
+footer .legal li {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+footer .developed_by {
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+
 @media screen and (min-width: 475px) {
 
     section.search-bar > nav {
@@ -301,6 +354,14 @@ section.search-bar.headhesive--stick > nav > form > input[type=text].search-box 
         margin-top: 0;
     }
 
+    footer > section {
+        width: 475px;
+    }
+
+    footer > section > article {
+        width: 50%;
+    }
+
 }
 
 @media screen and (min-width: 700px) {
@@ -340,6 +401,10 @@ section.search-bar.headhesive--stick > nav > form > input[type=text].search-box 
     section.search-bar > nav > article.categories {
         width: 60%;
         margin-top: 0;
+    }
+
+    footer > section {
+        width: 690px;
     }
 
 }
