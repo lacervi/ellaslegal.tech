@@ -176,16 +176,16 @@ $(function() {
         if (she.published) {
             img_src = './img/' + she.id + '.jpg';
             link = './entrevista.html?she=' + she.id;
+            $('section#ellas').append(
+                '<article id="' + she.id + '">'
+                    + '<a href="' + link + '" title="' + she.name + '">'
+                    + '<img src="' + img_src + '" alt="">'
+                    + '<span class="name">' + she.name + '</span>'
+                    + '<span class="category">' + category + '</span>'
+                    + '</a>'
+                    + '</article>'
+            );
         }
-        $('section#ellas').append(
-            '<article id="' + she.id + '">'
-                + '<a href="' + link + '" title="' + she.name + '">'
-                + '<img src="' + img_src + '" alt="">'
-                + '<span class="name">' + she.name + '</span>'
-                + '<span class="category">' + category + '</span>'
-                + '</a>'
-                + '</article>'
-        );
     }
 
     $('input.search-box').keyup(function(e) {
