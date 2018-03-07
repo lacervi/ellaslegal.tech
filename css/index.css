@@ -193,10 +193,10 @@ input[type=text].search-box:focus {
     width: 100%;
 }
 
-@media screen and (min-width: 450px) {
+@media screen and (min-width: 475px) {
 
     section.search-bar > nav {
-        width: 450px;
+        width: 475px;
     }
 
     section#presentation article.title {
@@ -204,11 +204,11 @@ input[type=text].search-box:focus {
     }
 
     section#presentation article {
-        width: 450px;
+        width: 475px;
     }
 
     section#ellas {
-        width: 450px;
+        width: 475px;
     }
 
 }
