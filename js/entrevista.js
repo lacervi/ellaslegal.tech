@@ -39,11 +39,16 @@ $(function() {
             }
             $('header > p.quote > q').text(data.quote);
             for (var q in data.questions) {
+                var theQuestion = data.questions[q].question;
+                var theAnswer = data.questions[q].answer;
+                if (theAnswer instanceof Array) {
+                    theAnswer = '<p>' + theAnswer.join('</p><p>') + '</p>';
+                }
                 $('section#entrevista').append(
                     '<article> <question>'
-                    + data.questions[q].question
+                    + theQuestion
                     + '</question> <answer>'
-                    + data.questions[q].answer
+                    + theAnswer
                     + '</answer> </article>'
                 );
             }
