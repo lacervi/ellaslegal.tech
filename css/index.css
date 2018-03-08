@@ -300,6 +300,7 @@ footer .developed_by {
     margin-top: 20px;
     text-align: center;
     border-top: 1px solid #ccc;
+    margin-bottom: 50px;
 }
 
 @media screen and (min-width: 475px) {
