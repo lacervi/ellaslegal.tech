@@ -1,0 +1,40 @@
+{
+    "name": "Alice Hlidkova",
+    "photo": "alice-hlidkova.jpg",
+    "bio": "Experta en comunicación y consultoria blockchain, fundadora de Through the Changing Glass Blockchain Consulting. Participa en el movimiento Women in Blockchain creado en EEUU para potenciar y visibilizar el papel de las mujeres en este ámbito.",
+    "social": {
+        "twitter": "alicehlidkova",
+        "linkedin": "https://www.linkedin.com/in/alice-hlidkova-b908bb47/"
+    },
+    "quote": "Sé abierto de mente, pide ayuda, y sigue a los grandes líderes que admiras.",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "Las mujeres son naturalmente intuitivas y compasivas; así es como somos construidas. Somos naturalmente solucionadoras de problemas y colaboradoras, sin embargo, esto no siempre se traduce en negocios En la industria tecnológica, las mujeres necesitan posicionarse de una cierta manera para garantizar su éxito. Deben establecer sus propios límites y expresar su opinión de una manera práctica para recibir apoyo de hombres y mujeres. Elijo posicionarme como un joven líder en este espacio con el apoyo de ambos para poder hablar no sólo sobre sus temas sino también ofrecer soluciones para la inclusión de las mujeres en el mundo del blockchain."
+        },
+        {
+            "question": "¿Cuál fue el camino que decidiste seguir para llegar a donde estas ahora?",
+            "answer": "Vengo del mundo de los negocios, dela rama sanitaria y como gerente de ventas por 5 años. Trabajé con diferentes compañías en Nueva York y la mayoría de la gente estaba orientada a la comunicación o a la tecnología. A medida que nuestro mundo se hace más avanzado tecnológicamente, es nuestra responsabilidad aprender de las herramientas que nos servirán a nosotros y a la humanidad en el futuro. Graduarse de una escuela como Carnegie Mellon (escuela n. º 1 en robótica) me ha enseñado a apreciar y aplicar la tecnología para ayudar a ejecutar mi visión de las mujeres en el liderazgo de la cadena de bloques."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "Sí. Hay muchas capas en esa pregunta. En primer lugar, existe un sesgo de confirmación; en segundo lugar, la mayoría de las mujeres no llegan a comunicar sus límites. En tercer lugar, la mayoría de las mujeres permanecen en posiciones subordinadas sin buscar tutoría. Para tener éxito como una mujer líder en la vida personal y profesional, las mujeres necesitan orientación, acceso a la tecnología y el valor de decir no cuando surgen las banderas rojas."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "Mi apodo es Alicia en el país de las maravillas. Todo lo que hago abarca eso. Soy curiosa, aventurera y atrevida. Al igual que Alice, el personaje de las novelas de Carol Lewis. Así que para mi tenía sentido jugar con palabras, conceptos, imágenes para representar quién soy. El techo de cristal está ahí para inspirar a las mujeres y muchos otros para romperlo. Por eso es claro y visible. El vidrio es quebradizo; hierro y el cemento es mucho más difícil de hacer. Algunos condados tienen techos y paredes de material más resistente para romper. Al menos en Estados Unidos, el techo sólo está hecho de vidrio."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por dónde empezarías?",
+            "answer": "Women in blockchain movement  trata de proporcionar igualdad de oportunidades e inclusión para las mujeres en este espacio. El impacto social en todo el mundo se crea cuando combinamos la energía masculina con la femenina y nos unimos como mujeres y hombres para crear soluciones a los problemas globales."
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "Gente diciéndome que no."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Sé abierto de mente, pide ayuda, y sigue a los grandes líderes que admiras. Determina tu valor antes de elegir tu carrera."
+        }
+    ]
+}

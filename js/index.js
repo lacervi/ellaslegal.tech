@@ -31,9 +31,9 @@ var them = [
         published: false
     },
     {
-        id: 'alice-hidkova',
-        name: 'Alice hidkova',
-        category: null,
+        id: 'alice-hlidkova',
+        name: 'Alice Hlidkova',
+        category: 'blockchain',
         published: false
     },
     {
