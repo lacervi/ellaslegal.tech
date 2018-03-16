@@ -34,7 +34,7 @@ var them = [
         id: 'alice-hlidkova',
         name: 'Alice Hlidkova',
         category: 'blockchain',
-        published: false
+        published: true
     },
     {
         id: 'barbara-roman',
