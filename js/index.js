@@ -69,7 +69,7 @@ var them = [
     {
         id: 'amanda-guglieri',
         name: 'amanda guglieri',
-        category: 'software',
+        category: 'tecnología',
         published: true
     },
     {
