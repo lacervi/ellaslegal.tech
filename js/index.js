@@ -69,8 +69,8 @@ var them = [
     {
         id: 'amanda-guglieri',
         name: 'amanda guglieri',
-        category: null,
-        published: false
+        category: 'software',
+        published: true
     },
     {
         id: 'astrid-baldisera',

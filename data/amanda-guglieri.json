@@ -1,0 +1,76 @@
+{
+    "name": "Amanda Guglieri",
+    "photo": "amanda-guglieri.jpg",
+    "bio": "Ahora lo llaman growth hacker. Creo en la transversalidad: escribo código y relatos. Siento tanta belleza en una ecuación como en la buena literatura (Arturo Barea, Sarah Waters y Amelie Nothomb). Si me quieres encontrar, ve al cruce de caminos de producto, negocio, desarrollo técnico, diseño y contenidos, los cinco monstruos que tiran de mí en sus cinco direcciones.",
+    "social": {
+        "twitter": "amandaguglieri",
+        "linkedin": "https://www.linkedin.com/in/amandaguglieri/"
+    },
+    "quote": "Lucho por una educación que nos enseñe a pensar y no por una educación que nos enseñe a obedecer",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": [
+                "¿LegaltechA?",
+                "No, en serio, no sabía que legaltech tenía género. Y puesto a tenerlo, no sabía que se sometía a los cánones de lo binario."
+            ]
+        },
+        {
+            "question": "Vienes del mundo jurídico pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí?",
+            "answer": "En realidad hice el camino al revés. Vengo del mundo tecky y aterricé en lo jurídico por casualidad hace 4 años. Y dentro de lo tecky, he hecho sobre todo diseño de producto, márketing y comunicación, vamos, que no he picado código hasta hace muy poco (año dos años)."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": [
+                "Victimismos aparte: SÍ. Vivo macro y micromachismos todos los días.",
+                "Pero pongo un caso concreto: esas reuniones en las que los interlocutores miraban todo el rato a mi compañero (que me acompañaba para hacer bulto) presuponiendo que él era el “decisor”. Yo me digo que también en el sector legal has de cuidar mucho qué te pones y últimamente voy algo macarra-gamberra, pero no, lo que te he contado de las reuniones sucede aunque vaya con vestido de gala. Por defecto, el hombre es tratado como el interlocutor válido."
+            ]
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": [
+                "Ostrás, pues es importante por mil motivos. Aunque creo que lo primero que habría que hacer el pintar ese techo de cristal de colores porque estoy convencida que muchas mujeres ni lo ven y ¿cómo vas a romper algo que ni siquiera ves?",
+                "En lo personal tengo algunas amigas que me hablan de sus relaciones de pareja con hombres que se autodenominan feministas y, por lo que veo, hasta día de hoy ninguno de ellos han superado \"de verdad\" la educación que recibieron, a todos les sale algún detalle machista. Y hablo de señores que se autodenominan feministas. No entro en los que ni se plantean la cuestión.",
+                "Y luego en el trabajo existe una brecha salarial. Las mujeres somos más de la mitad de la población y cobramos mucho menos y llegamos menos alto en la escalera de las jerarquías. La brecha comienza a marcarse a partir de los 30 años. Esto lo digo sin tapujos: yo cobro igual que hace diez años. Me han llegado a decir que quizás no he sabido moverme como mis compañeros que resultan ser hombres, o también que he hecho malas elecciones (por no querer irme a EEUU o por no querer quedarme en el ejercicio del periodismo cuando estuve en elmundo.es), o que en el sector editorial los sueldos son más bajos, o que… En fin… No lo sé, estoy contenta con mis elecciones y tampoco tengo claro que yo sea el ejemplo perfecto de brecha salarial."
+            ]
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros?",
+            "answer": "Sí, ¿no?"
+        },
+        {
+            "question": "¿Tú por donde empezarías?",
+            "answer": "Cortando cuellos. No, ya de verdad, por la Educación."
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": [
+                "Mil cosas.",
+                "Primero el privilegio de haber nacido en un espacio geográfico y un contexto histórico social determinado. Yo en época romana (por ejemplo) y siendo mujer y plebeya no hubiera llegado muy lejos.",
+                "También la familia y mi madre, que cubrieron mis necesidades básicas los primeros años y me proporcionaron una Educación y un amor incondicional que me han servido de base para “lo demás”.",
+                "Y “lo demás”, que creo que es en realidad lo que preguntabas, ha sido la Curiosidad, la Cabezonería y la Confianza en mis capacidades. No lo hice aposta, pero me salió CCC de acrónimo. El resto es consecuencia."
+            ]
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Que sean críticos con los que les den consejos."
+        },
+        {
+            "question": "Una referencia en tu vida:",
+            "answer": [
+                "No es una referencia única, pero aprovecho para darle difusión. Se me acaba de venir a la cabeza que crecí con este póster del Manifiesto Sexpol. Wilhelm Reich (de 1936) colgado en una de las paredes de mi habitación (<a href='http://unpaseoporvenezia.blogspot.com.es/2007/05/manifiesto-sexpolwilhelm-reich-1936.html' target='_blank'>http://unpaseoporvenezia.blogspot.com.es/2007/05/manifiesto-sexpolwilhelm-reich-1936.html</a>).",
+                "No sé si eso me define a mí o a mis padres."
+            ]
+        },
+        {
+            "question": "Una frase inspiradora:",
+            "answer": [
+                "Pues las que pone una de mis amigas en su firma de correo, me encantan. Las copipego:",
+                "Este mensaje está escrito usando un lenguaje inclusivo, para todas. las personas.",
+                "Lucho por una educación que nos enseñe a pensar y no por una educación que nos enseñe a obedecer.",
+                "Enseñar es mostrar que ES posible. Aprender es hacerlo posible para una misma.",
+                "If you think education is expensive try ignorance."
+            ]
+        }
+    ]
+}
