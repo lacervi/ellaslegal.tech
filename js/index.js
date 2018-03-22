@@ -94,7 +94,7 @@ var them = [
         id: 'mjesus-glez-espejo',
         name: 'María Jesús González Espejo',
         category: 'innovación',
-        published: false
+        published: true
     },
     {
         id: 'catherine',
