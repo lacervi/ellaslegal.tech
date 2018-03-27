@@ -27,8 +27,8 @@ var them = [
     {
         id: 'eva-bruch',
         name: 'Eva Bruch',
-        category: null,
-        published: false
+        category: 'innovación',
+        published: true
     },
     {
         id: 'alice-hlidkova',

@@ -1,0 +1,48 @@
+{
+    "name": "Eva Bruch",
+    "photo": "eva-bruch.jpg",
+    "bio": "Empresaria y consultora de Transformación Digital e Innovación para organizaciones profesionales, ayuda a las empresas desde AlterWork en su proceso de transformación digital y a fomentar la innovación para que hagan crecer sus negocios y ocupen un posicionamiento relevante en su sector. Runner, madre, profesora, conferenciante y crack en general.",
+    "social": {
+        "twitter": "evabruch",
+        "linkedin": "https://www.linkedin.com/in/evabruch/"
+    },
+    "quote": "No importa que los demás piensen que tu idea es descabellada… tú sigue. No te detengas. No pares hasta que llegues a tu destino, y tampoco te preocupes por dónde se encuentre éste.  Pase lo que pase, no te detengas",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "Una realidad. Cada vez hay más mujeres impulsando iniciativas tecnológicas en el sector legal."
+        },
+        {
+            "question": "Vienes del mundo jurídico pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí?",
+            "answer": "Yo creo mucho el dicho “si naciste para martillo, del cielo te caerán los clavos” y en mi caso la casualidad quiso que en un LPO, una empresa externalizadora de servicios jurídicos con un uso muy avanzado de la tecnología. Cuando vi que ellos hacían en cuestión de días aquello que yo tardaba meses supe que había mucho por hacer en los despachos. Cambié el rumbo inmediatamente."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "No creo que se minusvalore el trabajo o la opinión de la mujer por el hecho de ser mujer. Las limitaciones vienen por otros factores más culturales y relacionados con el rol que la mujer desempeña en la sociedad."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "Porque todos debemos tener las mismas oportunidades, personal y profesionalmente. La maternidad por ejemplo debería ser algo compartido y no un freno en la carrera de la mujer."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por donde empezarías?",
+            "answer": "Por la formación y la educación, en la escuela, en el seno de las familias. Mi familia siempre me animó a formarme como herramienta para alcanzar mis metas. Creo que aún falta bastante para lograr la igualdad, pero se ha avanzado bastante en la buena dirección."
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "Mucho esfuerzo y tesón. Algo de suerte y excelentes compañeros de viaje."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Que no se disculpen por ser mujer."
+        },
+        {
+            "question": "Una referencia en tu vida:",
+            "answer": "Son muchas y no necesariamente conocidas. Uno de mis referentes es Rosa Parks, quien con su tenacidad consiguió que se reconocieran derechos fundamentales para las personas de color. Otras mujeres a las que admiro son Ada Lovelace, la primera mujer que innovó en inteligencia artificial, Erin Brockovich, Mary Shelley, Amelia Earhart, la primera mujer que cruzó el atlántico pilotando un avión."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "“No importa que los demás piensen que tu idea es descabellada… tú sigue. No te detengas. No pares hasta que llegues a tu destino, y tampoco te preocupes por dónde se encuentre éste.  Pase lo que pase, no te detengas”.  Phil Knight Fundador de NIKE"
+        }
+    ]
+}
