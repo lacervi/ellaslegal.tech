@@ -25,12 +25,6 @@ var them = [
         published: true
     },
     {
-        id: 'eva-bruch',
-        name: 'Eva Bruch',
-        category: 'innovación',
-        published: true
-    },
-    {
         id: 'alice-hlidkova',
         name: 'Alice Hlidkova',
         category: 'blockchain',
@@ -93,6 +87,12 @@ var them = [
     {
         id: 'mjesus-glez-espejo',
         name: 'María Jesús González Espejo',
+        category: 'innovación',
+        published: true
+    },
+    {
+        id: 'eva-bruch',
+        name: 'Eva Bruch',
         category: 'innovación',
         published: true
     },
