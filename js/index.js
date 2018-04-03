@@ -58,7 +58,7 @@ var them = [
         id: 'sara-molina',
         name: 'Sara Molina',
         category: 'innovación',
-        published: false
+        published: true
     },
     {
         id: 'amanda-guglieri',
