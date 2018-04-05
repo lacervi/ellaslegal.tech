@@ -115,10 +115,10 @@ var them = [
         published: false
     },
     {
-        id: 'yesica-sampayo',
-        name: 'Yesica Sampayo',
-        category: null,
-        published: false
+        id: 'yessica-sampayo',
+        name: 'Yéssica Vázquez Sampayo',
+        category: 'startups',
+        published: true
     },
     {
         id: 'dori-fuentes',

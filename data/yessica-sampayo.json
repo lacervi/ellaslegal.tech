@@ -1,0 +1,48 @@
+{
+    "name": "Yéssica Vázquez Sampayo",
+    "photo": "yessica-sampayo.jpg",
+    "bio": "Licenciada en derecho, se pasó al mundo legaltech enamorada de su idea de calidad legal. Licenciada en Derecho por la USC, acualmente es CCO Emerita Legal, una de las legaltech de referencia en el panorama nacional.",
+    "social": {
+        "twitter": "emeritalegal",
+        "linkedin": "https://www.linkedin.com/in/yessicavs"
+    },
+    "quote": "No importa si eres hombre o mujer para ser bueno en cualquier profesión",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "Legaltech hace referencia al uso de la tecnología para ofrecer servicios legales, cambiando de alguna manera la práctica tradicional del derecho. “En femenino” lo añadiría para recalcar la presencia de las mujeres, que es una realidad y una necesidad."
+        },
+        {
+            "question": "Vienes del mundo jurídico pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí?",
+            "answer": "Soy abogada pero dejé de ejercer para dedicarme al 100 % a mi proyecto legaltech. El camino que me llevó hasta aquí fue el inconformismo y el afán de revolucionar de alguna manera un sector tan tradicional y opaco como es el sector legal en España."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "Si, sobre todo por el hecho de ser mujer joven."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "Es importante romper el techo de cristal para demostrar que las mujeres también podemos dirigir o participar en empresas que crean soluciones tecnológicas, especialmente cuando en el sector legal cada día somos más mujeres."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por donde empezarías?",
+            "answer": "Creo que todavía queda recorrido, yo empezaría por aumentar la participación femenina en todos los ámbitos, demostrando que no importa si eres hombre o mujer para ser bueno en cualquier profesión."
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas? ",
+            "answer": "Ilusión y perseverancia."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Nunca ha sido mejor momento para innovar en el sector legal así que les animaría a lanzarse a la aventura legaltech."
+        },
+        {
+            "question": "Una referencia en tu vida:",
+            "answer": "Mi madre, una mujer fuerte y luchadora."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "“Caminando en línea recta no puede uno llegar muy lejos” El principito"
+        }
+    ]
+}
