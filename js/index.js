@@ -51,8 +51,8 @@ var them = [
     {
         id: 'sonsoles-valero',
         name: 'Sonsoles Valero',
-        category: null,
-        published: false
+        category: 'tecnología',
+        published: true
     },
     {
         id: 'sara-molina',

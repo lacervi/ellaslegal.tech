@@ -1,0 +1,69 @@
+{
+    "name": "Sonsoles Valero",
+    "photo": "sonsoles-valero.jpg",
+    "bio": "Sonsoles Valero es cofounder y Chief Legal Officer en Botmyself, startup legaltech de desarrollo de chatbots personalizados. Abogada y formadora especializada en Derecho de Consumo y Atención al Cliente. Firme creyente de los equipos mixtos “de letras y de ciencias” para llevar a cabo proyectos tecnológicos, ha centrado su carrera en complementar la inteligencia artificial que se usa en la creación de chatbots con la parte de inteligencia humana que se requiere para su entrenamiento.",
+    "social": {
+        "twitter": "sonvalero",
+        "linkedin": "https://www.linkedin.com/in/sonsolesvalerobarcelo/"
+    },
+    "quote": "Hecho mejor que perfecto",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "Si definimos legaltech como el uso de la tecnología con el fin de proporcionar servicios legales no creo que tenga género. Lo que sí creo necesario es reivindicar el papel de las mujeres en los proyectos legaltech, nuestra visión de las cosas, la forma en la que innovamos, creamos, comunicamos… y lideramos."
+        },
+        {
+            "question": "Vienes del mundo jurídico pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí? ",
+            "answer": [
+                "Creo que las flechas me han ido llevando en un proceso natural. Los clientes han migrado a entornos digitales de forma exponencial y es básico estar donde tus clientes están. Además, los problemas que tenían los consumidores en el mundo analógico también se han reproducido, incluso agravado, en estos entornos. Los consumidores necesitan mecanismos de resolución de sus problemas digitales y las empresas gestionar mejor esta relación así que era lógico que aumentara mi interés por comprender mejor qué hay detrás de las tecnologías de la comunicación, la contratación online, la gestión del conocimiento, de la información, etc…. ",
+                "Siempre digo que mi perfil profesional (y personal) está formado de muchas piezas como si fuera un puzzle (legal, consumo, tecnología, comunicación, innovación, responsabilidad social, …) y en los últimos años, algunas piezas no encontraban su sitio… ahora, nada es casualidad, encajan a la perfección.",
+                "Ese plus de motivación lo he encontrado al ganar, junto con mi equipo de Botmyself, el premio KPMG del legal hackathon (#HackTheJustice) del Instituto de Innovación Legal con una propuesta de negocio en el entorno de los chatbots legales, y así la combinación ha sido perfecta. ",
+                "Sigo caminando porque queda mucho por recorrer. La ilusión por emprender algo nuevo mezclado con el vértigo de no saber lo que te espera y los retos legales y tecnológicos a los que nos enfrentamos, es lo que hace interesante mi momento actual."
+            ]
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": [
+                "La mayoría de mi trabajo lo he realizado sola (sin buscarlo y sin quererlo). No he formado parte de ningún equipo ni empresa en la que pudiera ponerse en duda mi capacidad por el hecho de ser mujer. Lo que no quiere decir que a mi alrededor sí he visto casos. Recuerdo un despacho donde dependiendo del tipo de cliente enviaban a un socio o una socia. Siempre salía perdiendo la misma…",
+                "Estos primeros meses con mis nuevos compañeros no pueden ser más satisfactorios. De forma natural nadie duda de que vamos a disfrutar de sinergias multidisciplinares, variadas, complementarias… en todos los sentidos: edades, géneros, competencias, etc… Y es que estoy firmemente convencida de que mezclar mi mundo de letras con sus 1 y 0 servirá para crear la magia que necesitamos.",
+                "Fuera del mundo jurídico, y como anécdota machista frikirockera de juventud, allá por los 90s, hablaros de mi carrera frustrada de Dj por ser mujer en un bar de copas … Cientos de discos de vinilo que no me dejaban tocar porque era mejor que atendiera a la horda de “sedientos” clientes con mi mejor sonrisa que elegir si poner a Héroes del Silencio o a Los Rodríguez…"
+            ]
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": [
+                "Es curioso como las mujeres, siendo más de la mitad de los licenciados españoles tenemos una visión más pesimista que los hombres sobre nuestras habilidades y capacidades para emprender",
+                "Es curioso que llevo muchos años preguntándome si las mujeres eligen libremente no ascender o no emprender como una cuestión de prioridades o es la sociedad la que les impide alcanzar retos mayores (dificultad de conciliación real y parón por maternidad) o simplemente tenemos más miedo al fracaso que los hombres y aunque estemos más formadas que ellos creemos que esto no basta, que no es suficiente y nos invade la inseguridad impidiéndonos salir de nuestra zona de confort y el papel asignado. Y creo que las 3 razones conforman la causa de nuestras limitaciones.",
+                "El techo de cristal no es un invento ni la reivindicación por romperlo es una moda… muchas antes nos precedieron y rompieron los techos de su época. Si la toma de decisiones que nos van a afectar se realiza al otro lado de ese cristal es lógico que queramos sentarnos en la mesa.",
+                "Sheryl Sandberg (COO de Facebook), apuntaba en 2010 algunas verdades que son para reflexionar en una charla TED que dió titulada Why we have too few women leaders? A pesar del tiempo, poco ha cambiado. Me gusta mucho y espero que a vosotros también. Os dejo aquí <a href=\"https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders?language=es#t-789420\" target=_blank>el enlace al vídeo</a>."
+            ]
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por dónde empezarías?",
+            "answer": [
+                "Ver la Historia con perspectiva nos obliga a estar contentas por todo lo conseguido. Mi madre tenía que pedir permiso a mi padre para abrirse una cuenta corriente en el banco o disponer de sus bienes, por ejemplo… y de esto no hace tanto. Sin embargo, no es suficiente. Todavía queda mucho por hacer.",
+                "Son muchos los eventos a los que acudo donde las mujeres son protagonistas porque creo que compartiendo inquietudes y construyendo referentes se puede cambiar la historia.",
+                "Si hablamos de lo que pueden hacer las Administraciones Públicas, por supuesto, las políticas sociales y de igualdad son necesarias para cambiar estos estereotipos. Y nosotras debemos querer cambiarlos con nuestras microacciones, nuestros microconquistas que nos hagan más fuertes y visibles para servir de ejemplo a nuestras hijas."
+            ]
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "No puedo decir que haya alcanzado mis metas… nada es como lo soñamos. Lo que estoy es marcando pequeños hitos que voy superando, buscando encajar esas piezas de las que hablaba en este nuevo proyecto que acabo de iniciar y ser feliz durante el trayecto. Con eso me basta."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Que abran su mente y que no desistan en conseguir ser felices con lo que hagan, aunque no encaje con lo que se espera de ellos. Conformarse con una vida gris no da más puntos para la siguiente. Los juristas actuales y futuros tenemos mucho que aportar, sólo hay que ver las señales y si es necesario inventarse una profesión, pues nos la inventamos. Asistir a congresos, jornadas técnicas, encuentros de otros sectores, participar en hackathones, conocer gente distinta, … es decir, salir del despacho, te da una visión panorámica para ganar en perspectiva… ah, y hacer el Camino de Santiago (ayuda para todo en la vida)."
+        },
+        {
+            "question" : "Una referencia en tu vida",
+            "answer": "No tengo una referencia concreta… las personas que me rodean siempre me aportan algo. Intento extraer lo que puede ayudarme en cada detalle de lo que vivo. Hasta de aquello que duele, se aprende."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": [
+                "No me ha costado mucho encontrar una frase que resuma lo que ahora me motiva. Hace poco que soy consciente de que llevo toda la vida queriendo hacer las cosas perfectas, perdiendo mucho tiempo y no llegando nunca a estar totalmente satisfecha. Eso me hace ser menos productiva e infeliz. ",
+                "Aunque seguro alguien la pronunció antes, la frase que he elegido es una que me gusta mucho y que los que me conocen y me “sufren” me recuerdan cada día: “Hecho, mejor que perfecto” de la ya mencionada Sheryl Sandberg."
+            ]
+        }
+    ]
+}
