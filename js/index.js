@@ -37,12 +37,6 @@ var them = [
         published: false
     },
     {
-        id: 'estela-alberte',
-        name: 'estela alberte',
-        category: null,
-        published: false
-    },
-    {
         id: 'amy-chan',
         name: 'Amy Chan',
         category: null,
@@ -117,6 +111,12 @@ var them = [
     {
         id: 'yessica-sampayo',
         name: 'Yéssica Vázquez Sampayo',
+        category: 'startups',
+        published: true
+    },
+    {
+        id: 'estela-alberte',
+        name: 'estela alberte',
         category: 'startups',
         published: true
     },

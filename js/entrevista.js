@@ -31,7 +31,11 @@ $(function() {
             $('header > img.photo').attr('src', 'img/' + data.photo);
             $('header > h1.name').text(data.name);
             $('header > article.bio').text(data.bio);
-            $('header > article.contact a.fa-twitter').attr('href', 'https://twitter.com/' + data.social.twitter);
+            if (data.social.twitter == null) {
+                $('header > article.contact a.fa-twitter').css('display', 'none');
+            } else {
+                $('header > article.contact a.fa-twitter').attr('href', 'https://twitter.com/' + data.social.twitter);
+            }
             if (data.social.linkedin == null) {
                 $('header > article.contact a.fa-linkedin').css('display', 'none');
             } else {
@@ -52,17 +56,39 @@ $(function() {
                     + '</answer> </article>'
                 );
             }
+
+            var twitter_parenthesized_nick =
+                (data.social.twitter != null)
+                ? ' (@' + data.social.twitter + ')'
+                : '';
+
             var urlShareTwitter = 'https://twitter.com/intent/tweet?text='
-                + urlize(data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech: "' + data.quote + '"')
+                + urlize(
+                    data.name
+                    + twitter_parenthesized_nick
+                    + ' en ellaslegal.tech: "' + data.quote + '"'
+                )
                 + '&hashtags=feminismo,activismo,legaltech&via=ellaslegaltech';
             var urlShareLinkedin = 'https://www.linkedin.com/shareArticle?mini=true&url='
                 + window.location.href + '&title='
-                + urlize(data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech')
+                + urlize(
+                    data.name
+                    + twitter_parenthesized_nick
+                    + ' en ellaslegal.tech'
+                )
                 + '&summary=' + urlize(data.quote)
                 + '&source=ellaslegal.tech';
             var urlShareEmail = 'mailto:?to=&subject='
-                + urlize(data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech')
-                + '&body=' + urlize('Mira lo que dice ' + data.name + ' (@' + data.social.twitter + ') en ellaslegal.tech: ' + window.location.href)
+                + urlize(
+                    data.name
+                    + twitter_parenthesized_nick
+                    + ' en ellaslegal.tech'
+                )
+                + '&body=' + urlize(
+                    'Mira lo que dice ' + data.name
+                    + twitter_parenthesized_nick
+                    + ' en ellaslegal.tech: ' + window.location.href
+                )
             $('#comparte > article.contact a.fa-twitter').attr('href', urlShareTwitter);
             $('#comparte > article.contact a.fa-facebook').attr('href', 'https://www.facebook.com/sharer/sharer.php?u=' + window.location.href);
             $('#comparte > article.contact a.fa-linkedin').attr('href', urlShareLinkedin);
