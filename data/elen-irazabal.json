@@ -1,0 +1,48 @@
+{
+    "name": "Elen Irazabal",
+    "photo": "elen-irazabal.jpg",
+    "bio": "Elen es abogada de profesión, y licenciada en Derecho por la Universidad de Deusto. Tras una estancia en la India, decidió especializarse en lo que realmente le apasionaba: la Tecnología.  Cursó Big Data por Deusto Ingeniería y es líder del proyecto de legal analytics en la comunidad R-ladies Madrid.",
+    "social": {
+        "twitter": "IrazabalElen",
+        "linkedin": "https://www.linkedin.com/in/elen-irazabal-53683290/"
+    },
+    "quote": "Yo no deseo que las mujeres tengan poder sobre los hombres, sino sobre ellas mismas",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "La tecnología va a traer  soluciones a problemas  que antes no alcanzábamos a  resolver ni tan siquiera entender y no sólo las mujeres, sino la humanidad en general, somos protagonistas de la revolución."
+        },
+        {
+            "question": "Vienes del mundo jurídico pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí?",
+            "answer": "En realidad, caí en la tecnología a través de varias decepciones en la profesión del derecho. Mi pasión y mi idea desde muy pequeña fue dedicarme a los Derechos Humanos. Sin embargo, me encontré con un sector muy politizado y percibí que no era  ni el método ni la solución para promoverlos. Es ahí donde descubrí la tecnología y la innovación, y caí en Ingeniería Deusto."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "En realidad, nunca ha pasado por mi mente que cuando no se ha valorada o tenido en cuenta  mi opinión haya sido por ser mujer. También creo que las personas que hacen eso...también tienen otros sesgos. Y al final, el problema principal está en ellos mismos."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "¡ Cómo sino las mujeres tendríamos ya la bola de cristal!"
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por dónde empezarías?",
+            "answer": "Creo que la temática de género ha llegado a un punto dónde nadie sabe qué es: se habla, se discute, se debate hasta la saciedad pero nadie sabe el impacto en su vida cotidiana. Creo que la clave está en la “igualdad”· jurídica, muy intervenida por la elaboración de los ideales políticos y poco desarrollado por la vida real de las personas. Es ahí, donde la tecnología y muy especialmente, el mundo del dato, puede contribuir a aterrizar los problemas de género a casos individuales y solventarlos. Básicamente, la tecnología es la solución neutral e individual como alternativa al poder legislativo, muy sesgado por la realidad paralela en la que viven los ideales políticos."
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "La libertad y la responsabilidad individual. No esperar a que nadie solucione tus problemas ni tu ser la solución de los problemas ajenos."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Ante todo, que luchen por descubrir su singularidad. No hay nadie igual que tú. Y en segundo lugar, que ante los obstáculos legales, soluciones tecnológicas..."
+        },
+        {
+            "question": "¿A qué referente intelectual recomendarías seguir como inspiración?",
+            "answer": "A Juan Ramón Rallo"
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "\"Yo no deseo que las mujeres tengan poder sobre los hombres, sino sobre ellas mismas\". Mary Wollstonecraft, filósofa y escritora inglesa del siglo XVIII"
+        }
+    ]
+}

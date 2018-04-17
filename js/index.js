@@ -132,6 +132,12 @@ var them = [
         category: null,
         published: false
     },
+    {
+        id: 'elen-irazabal',
+        name: 'Elen Irazabal',
+        category: 'tecnología',
+        published: true
+    },
 
 ];
 
