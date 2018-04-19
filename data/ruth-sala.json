@@ -1,0 +1,52 @@
+{
+    "name": "Ruth Sala Ordóñez",
+    "photo": "ruth-sala.jpg",
+    "bio": "Abogada Penalista, es especialista en Delincuencia Informática. Auditora Jefe 27001 por AENOR,dirige el despacho Legalconsultors. Pionera en  Delitos Tecnológicos y PruebaDigital, Cibercooperante y enamorada de las TIC.",
+    "social": {
+        "twitter": "Ruth_legal",
+        "linkedin": "https://www.linkedin.com/in/ruthsala/"
+    },
+    "quote": "No te rindas nunca",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "¿Por qué hay que definir legaltech en femenino? En inglés no hay artículo femenino o masculino \"the technology\", la mentalidad del jurista tiene que salir de lo que yo llamo \"las cajas mentales\". Lo que existía hasta ahora ya no es más, incluso el concepto legaltech se queda corto si lo planteamos sólo como una optimización de procesos y recursos. Es más interesante \"cacharrear\" con la tecnología y tener esa \"visión\" sobre todo lo que jurídicamente deberíamos prever."
+        },
+        {
+            "question": "Vienes del mundo jurídico pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí?",
+            "answer": "Cierto que el mundo tecnológico ha sido dominado por hombres. Quiero pensar que gran parte de ello ha sido porque las mujeres no se han sentido o se sienten atraídas por él. Cierto es que a me gustan los retos y nunca quiero dar nada por sentado. Me planteé un: ¿y por qué no voy a poder formar parte del mundo tecnológico aún siendo mujer? ¿en qué libro pone que no se puede? En ninguno. También hay que decir que, en un espacio profesional como el tecnológico, un jurista es un extraño y sólo te dejan quedar en él si realmente tienes cosas que ofrecer y que sumen."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "Cada año hago la misma pregunta a mis alumnos de la Universidad al empezar el año: ¿cómo os imaginais al profesional del derecho? Siempre contestan con una imagen de hombre, unos 60 años, con traje. Es una profesión de una tradición clásica. Incluso entre las propias compañeras sentimos que tener al lado un abogado en el despacho parece que nos daría mayor seriedad a nuestras propuestas, aún teniendo momentos de debilidad hemos decidido no recurrir a la figura de un hombre para que se nos tome en serio. Cierto que sentimos que nos cuesta el triple e incluso que perdemos clientes cuando entre varios presupuestos se encuentra el nuestro. En esta profesión hemos visto que es una ventaja hacerse mayor, aún siendo mujer, cuanto más mayor más credibilidad tienes."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "La verdad es que el techo de cristal no me lo he creído nunca. Es como darle valor a un límite mental que te impone alguien, si no tienes límites mentales no hay necesidad de romper nada, porqu en tu cabeza no existe, sólo hay que marcar el objetivo y enfocarse hacia allí. Si vivo sintiendo que hay límites le haré un flaco favor a la siguiente generación de mujeres. Es un camino de empoderamiento de la mujer y descubrimiento de sus propias capacidades. No se trata de luchar contra nadie, se trata de aportar y sumar en una Sociedad construída por todos."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por dónde empezarías?",
+            "answer": "La normativa ha evolucionado muchísimo, ahora sólo falta que la mujer se lo crea. El concepto de lucha me es totalmente ajeno  y no lo comparto. Creo que se trata de un tema educacional y poco a poco va calando en las nuevas generaciones. Cuando todos nuestros antecesores se han movido en una línea de patriarcado, pretender modificarlo de un plumazo es demasiado atrevido. La mujer de hoy debe mantenerse en cada centímetro de seguridad y empoderamiento que gane, los resultados los veo ya no en mis hijas, si no en mis nietas."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros?",
+            "answer": "Yo ya empecé hace tiempo, ¿tu? El camino se hace al andar!"
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "Creer, sin ninguna duda, que las iba a alcanzar, aún a pesar de los muchos obstáculos, desengaños y derrotas."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": "Marcar un objetivo y ser resilientes ante los giros que se produzcan en el camino."
+        },
+        {
+            "question": "Una referencia en tu vida",
+            "answer": "Mariana Castells. Clínica, investigadora y Catedrática, directora del Drug Hypersensitivity and Desensitization Center, Allergy Immunology Training Program, Brigham and Women's Hospital, Harvard Medical School en Boston, incansable luchadora que dejó España para seguir sus sueños. Hoy día es de las mejores alergólogas del Mundo."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "No te rindas nunca"
+        }
+    ]
+}

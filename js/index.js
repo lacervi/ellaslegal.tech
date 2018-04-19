@@ -67,12 +67,6 @@ var them = [
         published: false
     },
     {
-        id: 'ruth-sala',
-        name: 'Ruth sala',
-        category: null,
-        published: false
-    },
-    {
         id: 'ruth-benito',
         name: 'Ruth Benito',
         category: null,
@@ -136,6 +130,12 @@ var them = [
         id: 'elen-irazabal',
         name: 'Elen Irazabal',
         category: 'tecnología',
+        published: true
+    },
+    {
+        id: 'ruth-sala',
+        name: 'Ruth sala',
+        category: 'legal',
         published: true
     },
 
