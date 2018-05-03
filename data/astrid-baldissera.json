@@ -1,0 +1,60 @@
+{
+    "name": "Astrid Baldissera",
+    "photo": "astrid-baldissera.jpg",
+    "bio": "Apasionada del derecho, la tecnología y la innovación, después de 10 años de ejercicio profesional se plantea como reto rediseñar la prestación de servicios legales y mejorar la experiencia del cliente, por ello decide crear Starting Legal. Disfruta con la tecnología, las startups y el Design Thinking.",
+    "social": {
+        "twitter": "astridbal",
+        "linkedin": "https://www.linkedin.com/in/astrid-b-805b4b20/"
+    },
+    "quote": "El trabajo de un abogado es resolver problemas, no crear nuevos problemas",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "Legaltech viene de \"Legal Technology\". Es un término que se utiliza para referirse al uso de la tecnología en el ámbito jurídico. Los promotores y beneficiarios por igual del legaltech son los ciudadanos, las administraciones públicas, los despachos, abogados, y startups. Supongo que \"en femenino\" significa todas las mujeres que de manera directa o indirecta potenciamos, fomentamos, desarrollamos el legaltech."
+        },
+        {
+            "question": "Vienes del mundo jurídico pero trabajas en una dimensión tecnológica, ¿cuál fue el camino que decidiste seguir para llegar allí?",
+            "answer": [
+                "Para mí siempre han ido de la mano, soy millenial (borderline) y los escritos, las sentencias, los autos, los consulté siempre en un ordenador. Quiero decir que no pasé de la máquina de escribir al ordenador, ni hice un salto cuántico tecnológico. Mi curiosidad y pasión por la tecnología me llevaron a intentar aprender a escribir código y entender mejor el mundo de la sociedad de la información, de la seguridad de la información, y el impacto que Internet ha tenido en la sociedad y en la profesión y con esa base el resto es curiosidad, cursos, masters, etc.",
+                "La perspectiva más práctica la asumo cuando empiezo a tener clientes emprendedores, jóvenes queriendo convertir ideas en negocios y utilizando la tecnología para ello, y de mi propia experiencia como emprendedora."
+            ]
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "Sí, con mas frecuencia de la que incluso me gusta admitir. Es un gremio muy endogámico y masculino, pero he aprendido y sigo aprendiendo mucho."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "La respuesta obvia es porque es la forma de materializar la igualdad de oportunidades, y no que esto sea simplemente una declaración de buenas intenciones. Pero honestamente yo creo que va más allá, romper el techo de cristal es permitir que la mujer se sienta realizada con su trabajo, y las mujeres realizadas contribuyen a mejorar la sociedad, que a su vez redunda en un beneficio colectivo y universal, etc."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por donde empezarías?",
+            "answer": [
+                "Sí, queda mucho por hacer, lo que a mí me resulta motivante. Yo siempre digo que hay que empezar por la educación, hay muchas personas que no entienden lo que significa la igualdad, el privilegio, etc, por lo que es difícil construir una buena base para avanzar si no hay educación. La educación es el mejor medio para la toma de conciencia.",
+                "El tema es que construir el bien toma mucho tiempo, educar es para el largo plazo, por lo que habría que combinarlo con medidas que tengan un impacto en el corto plazo como igualar la brecha salarial, flexibilizar horarios, etc."
+            ]
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "El que me gusta y apasiona profundamente lo que hago, el contar con el apoyo de mi familia y amigos queridos desde diferentes latitudes en el mundo!"
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen tras de ti?",
+            "answer": [
+                "Pues la verdad es que no me creo tan sabia como para dar consejos, pero sí una serie de observaciones:",
+                "Existen más formas de ejercer la profesión de abogado de las que nos enseñan en las facultades de derecho y de las que se ven a día de hoy en el mercado laboral.",
+                "Los latinajos solo sirven en la Universidad, en la vida real nadie quiere que le den lecciones con Justiniano o el Código de Hammurabi.",
+                "El trabajo de un abogado es resolver problemas, no crear nuevos problemas o usar el miedo para conseguir que te acepten una propuesta de honorarios.",
+                "El rito y los formalismos solo sirven para rendir homenaje a la tradición, no te hacen mejor abogado, solo te hace mejor abogado el ser un mejor ser humano."
+            ]
+        },
+        {
+            "question": "Una referencia en tu vida",
+            "answer": "Ada Lovelace, Brene Brown, Gloria Allred...."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "\"Normalmente los hombres no logran este equilibrio de opuestos. Los idealistas no suelen ser realistas, y los realistas no suelen ser idealistas. El militante generalmente no es conocido como pasivo, ni el pasivo es militante. Rara vez son los humildes asertivos, o los asertivos humildes. ... la verdad no se encuentra ni en la tesis ni en la antítesis, sino en una síntesis emergente que reconcilia a los dos \".  - Martin Luther King Jr"
+        }
+    ]
+}

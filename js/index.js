@@ -61,12 +61,6 @@ var them = [
         published: true
     },
     {
-        id: 'astrid-baldisera',
-        name: 'Astrid Baldisera',
-        category: null,
-        published: false
-    },
-    {
         id: 'ruth-benito',
         name: 'Ruth Benito',
         category: null,
@@ -138,7 +132,12 @@ var them = [
         category: 'legal',
         published: true
     },
-
+    {
+        id: 'astrid-baldissera',
+        name: 'Astrid Baldissera',
+        category: 'startups',
+        published: true
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
