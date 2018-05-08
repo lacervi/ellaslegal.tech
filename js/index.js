@@ -138,6 +138,12 @@ var them = [
         category: 'startups',
         published: true
     },
+    {
+        id: 'lorena-sanchez',
+        name: 'Lorena Sánchez',
+        category: 'ciberseguridad',
+        published: true
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
