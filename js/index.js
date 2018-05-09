@@ -144,6 +144,12 @@ var them = [
         category: 'ciberseguridad',
         published: true
     },
+    {
+        id: 'maria-gonzalez',
+        name: 'María González Moreno',
+        category: 'legal',
+        published: false
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
