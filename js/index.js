@@ -148,7 +148,7 @@ var them = [
         id: 'maria-gonzalez',
         name: 'María González Moreno',
         category: 'legal',
-        published: false
+        published: true
     },
 ];
 
