@@ -150,6 +150,12 @@ var them = [
         category: 'legal',
         published: true
     },
+    {
+        id: 'elena-gil',
+        name: 'Elena Gil González',
+        category: 'tecnología',
+        published: true
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
