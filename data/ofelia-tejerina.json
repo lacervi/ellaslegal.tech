@@ -1,0 +1,57 @@
+{
+    "name": "Ofelia Tejerina",
+    "photo": "ofelia-tejerina.jpg",
+    "bio": "Abogada especializada en tecnología y protección de datos, es además  Doctora en Derecho Constitucional por la UCM. Autora del libro “Seguridad del Estado y Privacidad”. Profesora de Posgrado en la Universidad San Pablo CEU (Máster Internacional universitario en Protección de Datos, Transparencia y Acceso a la Información), y en la Universidad Pontificia de Comillas, ICADE (Máster universitario de acceso a la abogacía); Secretaria General de la Asociación de Internautas y responsable de la sección de “El Defensor del Internauta”, y socia Fundadora de la “Asociación de Expertos Nacionales de la Abogacía”. Y crack, muy crack.",
+    "social": {
+        "twitter": "OfeTG",
+        "linkedin": "https://www.linkedin.com/in/ofelia-tejerina-15a61412/"
+    },
+    "quote": "La actitud mueve montañas",
+    "questions": [
+        {
+            "question": "Define legaltech en femenino",
+            "answer": "La tecnología es por definición un concepto femenino, y ya, es así. Pero bueno, en el terreno legal podemos hacerla también nuestra porque las Facultades de Ciencias Jurídicas y Derecho presumen desde hace décadas de tener un mayor porcentaje de alumnas que de alumnos en sus aulas. Así que la falta de visibilidad de la mujer en este sector no puede excusarse en números. De hecho, en positivo cabe destacar que cuando veo un panel de conferenciantes pleno en masculino me resulta rancio y anacrónico."
+        },
+        {
+            "question": "Has recibido formación legal pero trabajas en temas de tecnología, ¿cómo has llegado hasta ahí?",
+            "answer": "Cuando terminé Derecho me di cuenta de lo aburrido que era, quería dedicarme a algo que no tuviera nada que ver con las asignaturas que había estudiado, que fuera más creativo, con más futuro, pero que me permitiera aprovechar todo ese tiempo invertido entre leyes. Mi hermano entonces estudiaba Ingeniería Informática y yo desde mi perspectiva jurídica me preguntaba cómo se acabaría integrando en nuestras vidas esa fascinación suya por la tecnología. Acabé haciendo un Master de “Derecho Informático”, y ahora nos llevamos fenomenal."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de ser mujer?",
+            "answer": "En general he tenido suerte con las personas con las que me he cruzado en este mundillo. Por supuesto que me he topado con algún que otro troglodita, es normal, he sido autónoma desde que terminé la carrera y he tenido que tratar con todo tipo de gente, pero de una u otra manera los he ido esquivado y he podido seguir mi ruta con quien merecía la pena. Sí, sí que me he sentido apreciada y escuchada, otra cosa es que yo no me haya dado cuenta de que era pura cortesía y que en realidad les daba igual todo lo que yo dijera, pero qué le voy a hacer, al menos disimulaban bien y eso es de agradecer."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": [
+                "Porque es lo natural.",
+                "Vivimos con la imagen de un mundo masculino que es ficticio, hay que poner más esfuerzo en reeducar el subconsciente social. Si la imagen es que un alto cargo lleva corbata nuestra mente reaccionará con sorpresa natural al ver tacones en uno de esos puestos. No se verán méritos, no, simplemente la idea no encaja en nuestra caverna y tenderemos a rechazarlo por diferente. Esto hay romperlo, hay que acabar con ese tipo de mensajes visuales para que la mente se centre en lo que valen las personas.",
+                "Si ya aprobamos leyes que subrayan de forma trasversal la perspectiva de género, es incomprensible que aún se normalicen ciertas conductas que las niegan solo porque suele ser o verse así. Es absurdo, insano e ineficiente."
+            ]
+        },
+        {
+            "question": "En tu carrera, ¿qué te ha ayudado a alcanzar tus metas?",
+            "answer": [
+                "Mi familia. A ellos les debo una educación basada en una independencia personal y profesional que sólo puede tener éxito si es entendida con la suma de esfuerzos, acuerdos y respeto. Y mis compañeros de trabajo, por supuesto, todo lo que aprendo de ellos tanto si me muestran su desacuerdo como su admiración. Con ellos he llegado hasta aquí y con ellos necesito seguir.",
+                "El mundo legaltech me ha dado muchísimas más satisfacciones que disgustos, la verdad. Tuve la suerte de encontrar algo que me entusiasmaba, que me permite ser creativa, que provoca ganas de saber y de resolver, y todo eso al final convierte cualquier obstáculo en una razón más para seguir, más prudente, pero también más competitiva."
+            ]
+        },
+        {
+            "question": "A las que vienen detrás, ¿qué consejo les darías?",
+            "answer": [
+                "Que si les intriga saber qué consecuencias jurídicas puede tener el uso de la tecnología, este es su sitio. Pero que si piensan que esto es tan solo una opción porque está de moda, mejor que se dediquen a otra cosa. Esta especialidad demanda mucho cariño. Hay que estar continuamente actualizados, y eso solo se consigue si hay curiosidad por el tema, de lo contrario se verán desbordadas (o desbordados) en un par de meses porque aquí todo cambia muy rápido, hay demasiada información que abarcar.",
+                "También les diría, por qué no, que se olviden de estereotipos, que los ignoren, que aquí hay trogloditas como en todas partes, pero tantos como puertas abiertas para demostrar una personalidad y un rigor profesional bien armados seas del género que seas."
+            ]
+        },
+        {
+            "question": "Una referencia en tu vida:",
+            "answer": [
+                "Mis padres, dos profesionales que han trabajado toda la vida en igualdad de condiciones y en un mundo propio de mujeres como ha sido la enfermería. No puedo tener mejor ejemplo de lo que significa tomar las riendas de tu vida, hacer lo que te gusta y rodearte solo de personas que contribuyan a tu crecimiento personal o profesional en plan “pa’ fuera lo malo”.",
+                "Y mi amigo de toda la vida Igor de Cabo, fe y optimismo en estado puro. Se fue hace unos años tras una larga enfermedad, pero sigue haciendo de faro cuando me agobio por chorradas."
+            ]
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "La actitud mueve montañas"
+        }
+    ]
+}

@@ -156,6 +156,12 @@ var them = [
         category: 'tecnología',
         published: true
     },
+    {
+        id: 'ofelia-tejerina',
+        name: 'Ofelia Tejerina',
+        category: 'legal',
+        published: true
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
