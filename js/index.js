@@ -162,6 +162,12 @@ var them = [
         category: 'legal',
         published: true
     },
+    {
+        id: 'susana-gonzalez',
+        name: 'Susana González',
+        category: 'tecnología',
+        published: true
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
