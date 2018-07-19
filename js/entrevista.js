@@ -34,7 +34,13 @@ $(function() {
             if (data.social.twitter == null) {
                 $('header > article.contact a.fa-twitter').css('display', 'none');
             } else {
-                $('header > article.contact a.fa-twitter').attr('href', 'https://twitter.com/' + data.social.twitter);
+                if (typeof data.social.twitter == 'string') {
+                    $('header > article.contact a.fa-twitter.twitter-1').attr('href', 'https://twitter.com/' + data.social.twitter);
+                } else {
+                    $('header > article.contact a.fa-twitter.twitter-1').attr('href', 'https://twitter.com/' + data.social.twitter[0]);
+                    $('header > article.contact a.fa-twitter.twitter-2').attr('href', 'https://twitter.com/' + data.social.twitter[1]);
+                    $('header > article.contact a.fa-twitter.twitter-2').removeClass('additional-twitter');
+                }
             }
             if (data.social.linkedin == null) {
                 $('header > article.contact a.fa-linkedin').css('display', 'none');
@@ -59,7 +65,9 @@ $(function() {
 
             var twitter_parenthesized_nick =
                 (data.social.twitter != null)
-                ? ' (@' + data.social.twitter + ')'
+                ? (typeof data.social.twitter == 'string')
+                    ? ' (@' + data.social.twitter + ')'
+                    : ' (@' + data.social.twitter[0] + ')'
                 : '';
 
             var urlShareTwitter = 'https://twitter.com/intent/tweet?text='

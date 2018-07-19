@@ -164,3 +164,7 @@ a:focus {
 #templates {
     display: none;
 }
+
+.additional-twitter {
+    display: none;
+}
