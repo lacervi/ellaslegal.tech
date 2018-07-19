@@ -172,7 +172,7 @@ var them = [
         id: 'natalia-martos',
         name: 'Natalia Martos',
         category: 'legal',
-        published: false
+        published: true
     },
 ];
 
