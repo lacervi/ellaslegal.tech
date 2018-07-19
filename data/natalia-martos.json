@@ -1,0 +1,59 @@
+{
+    "name": "Natalia Martos",
+    "photo": "natalia-martos.jpg",
+    "bio": "",
+    "social": {
+        "twitter": [ "NataliaMartos", "army_legal" ],
+        "linkedin": "https://www.linkedin.com/in/nataliamartos/"
+    },
+    "quote": "\"Si se quiere viajar lejos, no hay mejor nave que un libro\" - Emily Dickinson",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "El diseño, creación, elección y gestión de herramientas tecnológicas que, en el sector de servicios jurídicos, automatizan todos aquellos procesos que no requieren la intervención de abogados debido a que se trata de tareas rutinarias y repetitivas. Estas tareas son dirigidas inicialmente por abogados cuando se determinan los objetivos que debe alcanzar. Asimismo, el abogado analiza e interpreta el resultado de los trabajos ejecutados por estas herramientas antes de enviarlos al cliente. De esta forma, Legaltech supone aplicar la eficiencia máxima a los trabajos jurídicos, de forma que los abogados podrán dedicarse exclusivamente a aquellas tareas en las que aportan todo su valor y conocimiento. Otra ventaja de usar Legaltech es que la máquinas tienen un índice de falibilidad muy inferior al de los humanos en quienes el cansancio hace mella y podrían acabar cometiendo errores en tareas tan mecánicas y repetitivas por falta de atención. Legaltech es casi un sinónimo de femenino ya que las abogadas nos caracterizamos por una extrema eficiencia y gestión de los tiempos. Por eso, tiene todo el sentido que los mayores referentes de Legaltech sean mujeres."
+        },
+        {
+            "question": "¿Cómo acabaste en esto de la legaltech?",
+            "answer": "En 2016 estudié tecnologías exponenciales en la Singularity University, en Silicon Valley. Allí conocí el poder de la inteligencia artificial, del machine learning y del blockchain. Cuando volví a España estudié más en profundidad estas tecnologías y sus aplicaciones al mundo jurídico y me di cuenta de su utilización es la evolución natural en un sector que no se ha transformado desde el siglo XIX. Analicé a las empresas norteamericanas y australianas que estaban usando estas tecnologías en el sector legal y decidí enfocarme en ellas tras pasar los últimos dos años en despachos de abogados tradicionales."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "Por supuesto, en multitud de ocasiones. He trabajado tanto en empresa multinacional como en gran despacho y, en ambos casos, el liderazgo absolutamente masculino. No es algo que se declare explícitamente pero mi percepción es que mis opiniones no han tenido la misma fuerza que la de compañeros hombres aunque, en esencia, fueran prácticamente iguales."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "Porque existe una situación de desigualdad objetiva que está condicionada por el género lo cual es inaceptable en una sociedad que defiende los derechos fundamentales como parte de su ideario y cultura."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por donde empezarías?",
+            "answer": "Se ha avanzado en los últimos años pero aún queda mucho trabajo por hacer. Muchas de las acciones que realizan empresas tienen más que ver con acciones de marketing que con una igualdad real. Yo empezaría y he empezado de hecho por sugerir nombres de mujeres referentes en todos los sectores de la industria para los eventos y conferencias donde los organizadores dicen no encontrar a mujeres. Hace poco participé en unas jornadas dedicadas a la protección de datos y a la ciberseguridad donde todas las ponentes fuimos mujeres. Estos gestos y su repercusión en redes sociales y medios contribuyen a la visibilización de las mujeres como excelentes profesionales en todos los ámbitos de la sociedad."
+        },
+        {
+            "question": "¿Qué te ha ayudado a alcanzar sus metas?",
+            "answer": "El tesón, la fuerza de voluntad y tener unos objetivos muy claros en mi carrera profesional que he perseguido sin descanso y a pesar de haber encontrado grandes dificultades."
+        },
+        {
+            "question": "¿Qué consejo darías a los jóvenes que vienen detrás, para que se metan en esto de la legaltech?",
+            "answer": "Qué no cierren su mente exclusivamente al Derecho. Deben ser inquietos, aprender de otras disciplinas y no tener miedo a la tecnología. Si consiguen mantener su curiosidad viva, la inteligencia les llevará a la conexión mágica que existe entre el Derecho y la tecnología. Les diría que estudiases cursos de blockchain, de smart contracts, que no teman a entrar en materias que parecen reservadas a ingenieros porque, en la mezcla, en los perfiles mixtos, estará el éxito del mundo legal futuro."
+        },
+        {
+            "question": "Cuéntanos en qué proyectos interesantes estás metida últimamente...",
+            "answer": [
+                "Tras un par de años de estudio de los modelos anglosajones, hace un par de meses fundé Legal Army, una empresa española de newlaw o de servicios jurídicos alternativos. Con Legal Army, queremos provocar la disrupción del sector legal, un sector que no se ha transformado y que no es capaz de satisfacer las necesidades de los clientes de este siglo que están cansados de pagar minutas enormes en un sistema de facturación por horas donde, además, muchos abogados carecen de conocimiento del negocio digital. Nosotros somos especialistas en derecho tecnológico, privacidad y protección de datos, además de funcionar como la asesoría jurídica de negocio de varias empresas para que pueden así recortar sus costes al máximo en personal interno disponiendo, a la vez, de los abogados con la mejor trayectoria para atender su negocio. Nuestro éxito está basado en el apalancamiento en tecnologías Legaltech. Al no tener costes elevados de estructura (grandes edificios de oficinas en ubicaciones prime) ni decenas de abogados (porque gran parte de las tareas son automatizadas), ofrecemos esquemas de precios que son totalmente transparentes y coherentes para los clientes y donde nos les traspasamos nuestros costes de estructura que no son necesarias para prestar un servicio de excelencia jurídica: precios cerrados pactados de antemano con el cliente para proyectos o bien igualas mensuales fijas sin límite de horas. Y somos partners de nuestros clientes, creamos una relación de confianza y de crecimiento conjunto con ellos, de forma que nos consideran parte de sus equipos pero sin tener que asumir los costes de la contratación interna.",
+                "Ahora estamos trabajando en la comunicación y en el web para poder hacer el lanzamiento oficial en septiembre. También estoy en conversaciones para colaborar en un programa formativo especializado en Legaltech que será pionero en España."
+            ]
+        },
+        {
+            "question": "¿Qué tecnología crees que sería apropiada para las abogadas que quieran cambiar le mundo? ¿Por cual apostarías como tecnología del futuro legal?",
+            "answer": "Cualquier tecnología que empodere a las abogadas y les permita alzar su voz con plena democracia. El día en que el talento femenino en la abogacía se exprese en su máxima amplitud, el mundo legal habrá progresado de forma exponencial. Como tecnología, soy una fan incondicional del blockchain y de sus aplicaciones para smart contracts y para market places de contenidos de propiedad intelectual."
+        },
+        {
+            "question": "Una referencia en tu vida:",
+            "answer": "Mi madre. No nos olvidemos que también hay mujeres que destacan en otros ámbitos (no como ejecutivas o prestigiosas abogadas) y que son pilares fundamentales de nuestra sociedad, que inculcan valores de igualdad y de progreso para las futuras generaciones y que no siempre tienen el reconocimiento que merecen."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "\"Si se quiere viajar lejos, no hay mejor nave que un libro\" - Emily Dickinson"
+        }
+    ]
+}

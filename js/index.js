@@ -168,6 +168,12 @@ var them = [
         category: 'tecnología',
         published: true
     },
+    {
+        id: 'natalia-martos',
+        name: 'Natalia Martos',
+        category: 'legal',
+        published: false
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];
