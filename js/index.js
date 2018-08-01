@@ -174,6 +174,12 @@ var them = [
         category: 'legal',
         published: true
     },
+    {
+        id: 'marta-sanchez',
+        name: 'Marta Sánchez Valdeón',
+        category: 'ciberseguridad',
+        published: true
+    },
 ];
 
 var filters = [ 'legal', 'ciberseguridad', 'tecnología', 'innovación', 'startups', 'blockchain' ];

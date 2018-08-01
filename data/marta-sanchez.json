@@ -1,0 +1,40 @@
+{
+    "name": "Marta Sánchez Valdeón",
+    "photo": "marta-sanchez.jpg",
+    "bio": "Nacida en León, está licenciada en Derecho por la Facultad Derecho de la Universidad de León, es experto universitario en criminología, es máster en Negocio y Derecho de las Telecomunicaciones, Audiovisual e Internet (Telecomunicaciones, Protección de Datos, Propiedad Intelectual e Industrial, Ley de Servicios de la sociedad de la información, Delitos informáticos). Colaboradora de la iniciativa del Observatorio Iberoamericano de Protección de Datos y cibercooperante del INCIBE.",
+    "social": {
+        "twitter": "martasanchezval",
+        "linkedin": "https://www.linkedin.com/in/marta-s%C3%A1nchez-valde%C3%B3n-4b8aa435/"
+    },
+    "quote": "Algo que siempre he admirado de todas nosotras es la capacidad que tenemos para “poder” con todo.",
+    "questions": [
+        {
+            "question": "Define qué es legaltech en femenino",
+            "answer": "La combinación de dos pasiones, la jurídica y la tecnológica, en mujeres que saben que tienen las mismas cualidades, o más, para desempeñar funciones y procedimientos históricamente enfocados a los hombres."
+        },
+        {
+            "question": "Formación legal pero trabajo en tecnológico, ¿cuál fue el camino que decidiste seguir para llegar a donde estas ahora?",
+            "answer": "Por vocación pura. Desde pequeña en mi casa hemos estado muy vinculados a las nuevas tecnologías, así que he crecido con ellas."
+        },
+        {
+            "question": "¿Alguna vez has sentido que tus opiniones o tu trabajo no fueron suficientemente valorados por el hecho de que eres mujer?",
+            "answer": "Combinado con el hecho de ser joven, sí."
+        },
+        {
+            "question": "¿Por qué es importante romper el techo de cristal?",
+            "answer": "Porque no por el hecho de ser mujeres u hombres significa que estemos menos cualificados sino todo lo contrario."
+        },
+        {
+            "question": "¿Queda mucho por hacer para conseguir la igualdad real entre géneros? ¿Tú por dónde empezarías?",
+            "answer": "Aunque suene a tópico, por la educación."
+        },
+        {
+            "question" : "Una referencia en tu vida",
+            "answer": "Mi hermana."
+        },
+        {
+            "question": "Una frase inspiradora",
+            "answer": "Hace poco vi un video de Jack Ma, el fundador de Alibaba, en el que decía que uno de los éxitos de su empresa había sido apostar por las mujeres, porque nosotras “nos preocupábamos por todo”, por lo nuestro, por lo de nuestro alrededor, porque todo esté bien. Es algo que siempre he admirado de todas nosotras, la capacidad que tenemos para “poder” con todo."
+        }
+    ]
+}
